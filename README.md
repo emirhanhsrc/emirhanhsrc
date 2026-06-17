@@ -1,21 +1,4 @@
-<!-- BAŞLIK & AMBLEM BÖLÜMÜ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=180&section=header&text=Emirhan%20Hasarca&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Sürekli+Öğrenen+ve+Üreten;Kod+Meraklısı;Full-Stack+Geliştirici+Adayı" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/emirhanhsrc">
-    <img src="https://img.shields.io/github/followers/emirhanhsrc?label=Takip%C3%A7i&style=for-the-badge&color=6366F1&labelColor=1E1E2E" alt="Followers" />
-  </a>
-  <a href="https://github.com/emirhanhsrc?tab=repositories">
-    <img src="https://img.shields.io/github/stars/emirhanhsrc?style=for-the-badge&color=34D399&labelColor=1E1E2E&label=Yıldızlar" alt="Stars" />
-  </a>
-</p>
-
+<h2 align="center">Emirhan Hasırcı</h2>
 ---
 
 <!-- 3D KATKI EVRENİ (3D CONTRIBUTION GRAPH) -->
